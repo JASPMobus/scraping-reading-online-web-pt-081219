@@ -1,6 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
 
-gem install nokogiri
+gem install Nokogiri
 
 html = open("https://flatironschool.com/")
